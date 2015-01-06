@@ -1,0 +1,67 @@
+table, tr, td{ 
+    border: 0px solid white;
+    width: 800px;
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size:  20px;
+    text-align: center;
+}
+#tr_cabecalho{
+    background-image: linear-gradient( #2e65af, #173a68);
+    color: white;   
+    text-align: center;
+        height: 45px;  
+}
+#td_corpo{
+    background-color: #d2d1ef;
+    color: #1b184c;
+    height: 25px;
+}
+#td_dinheiro_cabecalho{
+    background-image: linear-gradient( #409c26, #235c12);
+    color: white;   
+    text-align: center;
+    height: 45px;  
+}
+#td_dinheiro_corpo{
+    background-color: #b6c364;
+    color: #003a1c;
+    height: 25px;
+}
+#titulo{
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size:  30px;
+    text-align: center;
+}
+#sombra{
+    box-shadow: 2px 2px 5px #ccc, -2px -2px 5px #999;
+}
+#th_titulo{
+    background-image: linear-gradient( #1E90FF, #0000CD);
+    font-size: 20px;
+    height: 45px;
+    color: white; 
+    width: 100px;
+}
+#td_corpo2{
+    border-collapse: collapse;
+    border: 0px solid;
+    background-color:  	#B0C4DE;
+    color: #1b184c;
+    height: 25px;
+}
+#td_dinheiro{
+    background-image: linear-gradient( #a4d4eb, #309dd2);
+    color: #00356b;   
+    text-align: center;
+    width: 200px;
+} 
+#td_dinheiro_maior{
+    background-image: linear-gradient( #a4d4eb, #309dd2);
+    color: white;   
+    text-align: center;
+    
+}
+#tamanho{
+    width: 200px;
+}
+

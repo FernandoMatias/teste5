@@ -1,0 +1,129 @@
+#container2{
+   height:0%;
+   margin-top: -7px;
+   margin-left: -7px;
+   margin-right: -7px;
+   margin-bottom: -7px;
+
+}
+#rodape{
+    clear:both;
+    width: 100%; 
+    height: 10px;
+    border-top: 1px solid #999;
+    position: relative;
+    top: 135px;
+} 
+
+#logosisdado{
+    float: right;
+    width:  125px;
+    height: 19px;
+    background-image: url(../imagens/logosisdado.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 0px;
+}
+#corpo{
+    background-image: url(../imagens/vipal/Vipal1.fw.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 448px;
+}
+#informacoes{
+    background-image: url(../imagens/vipal/informacoes.png);
+    width: 559px;
+    height: 126px;
+    position: relative;
+    top: 80px;
+   
+}
+#logoeco{
+    float: right;
+    background-image: url(../imagens/vipal/Vipal4.png);
+    background-repeat: no-repeat;
+    width: 119px;
+    height: 68px;
+    top: -120px;
+    position: relative;
+}
+#logovipal_pneus{
+
+    background-image: url(../imagens/vipal/Vipal.png);
+    background-repeat: no-repeat;
+    width: 449px;
+    height: 281px;
+    float: right;
+    top: 0px;
+    position: relative;
+}
+#linhasEco{
+    background-image: url(../imagens/vipal/m_botao.png);
+    background-repeat: no-repeat;
+    height:256px;
+    width:155px;
+    position:absolute; 
+    top:0;
+    left:0;
+}
+#m_botao{
+    //background-image: url(../imagens/vipal/m_botao.png);
+    
+    //width: 155px;
+    //height: 246px;
+    position: absolute;
+   top: 498px;
+   left: 10px;
+}
+#calculadora_botao{
+    background-image: url(../imagens/vipal/calculadora_botao.png);
+    width: 358px;
+    height: 75px;
+    background-repeat: no-repeat;
+    top: -58px;
+    left:  96px;
+    position: relative;
+}
+#calculadora_botao:hover{
+    top: -57px;
+    left: 97px;
+}
+#conheca_bandas_eco{
+    background-image: url(../imagens/vipal/conheca_bandas_eco.png);
+    width: 358px;
+    height: 75px;
+    background-repeat: no-repeat;
+    top: -18px;
+    left:  99px;
+    position: relative;
+}
+#conheca_bandas_eco:hover{
+    top: -17px;
+    left: 100px;
+}
+#cartas_testemunhas{
+    background-image: url(../imagens/vipal/carta_testemunhas.png);
+    width: 358px;
+    height: 75px;
+    background-repeat: no-repeat;
+    top: -34px;
+    left:  100px;
+    position: relative;
+}
+#cartas_testemunhas:hover{
+    top: -33px;
+    left: 101px;
+}
+#instuticional{
+    background-image: url(../imagens/vipal/instuticional.png);
+    width: 358px;
+    height: 75px;
+    background-repeat: no-repeat;
+    top: 0px;
+    left:  101px;
+    position: relative;
+}
+#instuticional:hover{
+    top: 1px;
+    left: 102px;
+}

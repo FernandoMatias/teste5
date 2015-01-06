@@ -1,0 +1,215 @@
+#botao_resultado{
+    background-image: url(../imagens/vipal/btn_padrao.png);
+    background-repeat: no-repeat;
+    width: 346px;
+    height: 55px;
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: white;
+}#botao_resultado:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+
+#botao_voltar{
+    background-image: url(../imagens/vipal/btn_voltar.png);
+    background-repeat: no-repeat;
+    width: 144px;
+    height: 30px;
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: white;
+    left: 50px;
+}
+#botao_voltar:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+#bt_teclado{
+    background-image: url(../imagens/teclado.fw.png);
+    background-repeat: no-repeat;
+    width: 62px;
+    height: 38px;
+}
+#bt_teclado:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+    
+#botao_voltar2{
+    background-image: url(../imagens/vipal/btn_voltar.png);
+    background-repeat: no-repeat;
+    width: 144px;
+    height: 30px;
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: white;
+    left: 1px;
+    position: relative;
+    top: 15px;
+    
+}
+#botao_voltar:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+} 
+
+#bt_um{  
+    background-color: #d2d1ef;
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: #1b184c;
+    width: 300px;
+    height: 35px;   
+}
+#bt_um:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+#bt_dois{   
+    background-color: #d2d1ef;
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: #1b184c;
+    width: 300px;
+    height: 35px;
+}
+#bt_dois:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+#bt_tres{
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: #1b184c;
+    background-color: #d2d1ef;
+    width: 300px;
+    height: 35px;
+}
+#bt_tres:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+#bt_quatro{
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: #1b184c;
+    background-color: #d2d1ef;
+    width: 300px;
+    height: 35px;
+}
+#bt_quatro:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+#bt_cinco{
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: #1b184c;
+    background-color: #d2d1ef;
+    width: 300px;
+    height: 35px;
+}
+#bt_cinco:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+#bt_seis{
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: #1b184c;
+    background-color: #d2d1ef; 
+    width: 300px;
+    height: 35px;
+}#bt_seis:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+#bt_sete{
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: #1b184c;
+    background-color: #d2d1ef; 
+    width: 300px;
+    height: 35px;
+}
+#bt_sete:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+#bt_oito{
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: #1b184c;
+    background-color: #d2d1ef; 
+    width: 300px;
+    height: 35px;
+}
+#bt_oito:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+#bt_nove{
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: #1b184c;
+    background-color: #d2d1ef; 
+    width: 300px;
+    height: 35px;
+}
+#bt_nove:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+#bt_dez{
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: #1b184c;
+    background-color: #d2d1ef; 
+    width: 300px;
+    height: 35px;
+}
+#bt_dez:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+#bt_onze{
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: #1b184c;
+    background-color: #d2d1ef; 
+    width: 300px;
+    height: 35px;
+}
+#bt_onze:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+#bt_doze{
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+    color: #1b184c;
+    background-color: #d2d1ef; 
+    width: 300px;
+    height: 35px;
+}
+#bt_doze:hover{
+    position: relative;
+    top: 1px;
+    left: 1px;
+}

@@ -1,0 +1,57 @@
+#td{
+    width: 400px;
+    height: 30px;
+    border-radius: 2px;
+    border: 1px solid #3d9212
+}
+#tdtexodireita{
+    width: 40%;
+    text-align: right; 
+    border: 1px solid  #3d9212; 
+    border-radius: 1px;
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+}
+#tdtextoesquerda{
+    border: 1px solid  #3d9212; 
+    border-radius: 1px;
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+}
+#tabela2{
+       position: relative;  
+}
+#tabela3{
+    width: 72%;
+    position:absolute;
+    right: 175px;
+}
+#tabela4{
+    width: 90%;   
+}
+#input_text{
+    border: 2px solid  #3d9212; 
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 30px;
+    text-align: right;
+}
+#input_text_direita{
+    text-align: right;
+    border: 2px solid  #3d9212; 
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 30px;
+}
+#tdtexodireita2{
+    text-align: right;   
+    border: 2px solid  #3d9212; 
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size: 20px;
+}
+#tabela_area1{
+    top: 100px;  
+}
+#tabela_area2{
+    top: 50px;  
+    border: 0px;
+    border-collapse: collapse;
+}

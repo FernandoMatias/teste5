@@ -1,0 +1,32 @@
+#container{
+    font-family: "Trebuchet MS","Arial","sans-serif","Helvetica","Roboto","Droid Sans","BBMillbank";
+    font-size:  30px;
+    margin-top: -7px;
+    margin-left: -7px;
+    margin-bottom: -7px;
+    margin-right: -7px;
+}
+#cabecalho{
+    background-image: url(../imagens/vipal/TopoVipal_certo.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
+#corpo{
+    height: 540px;
+    
+}
+#corpo_detalhado{
+    height:auto; 
+    position: relative
+	
+}
+#cabecalho2{
+    background-image: url(../imagens/vipal/TopoVipal_certo.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 210px;
+    position: relative;
+    
+}
